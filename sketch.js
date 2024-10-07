@@ -11,7 +11,7 @@ const options = {
 };
 
 function setup() {
-  createCanvas(700, 7000);
+  createCanvas(500, 3000);
   textSize(16);
   textAlign(CENTER, CENTER);
   
